@@ -1,0 +1,28 @@
+{
+  "Our Services": [
+    {
+      "header": "Tech Recruitment",
+      "content": "This is the content for the first accordion item."
+    },
+    {
+      "header": "Executive Search",
+      "content": "This is the content for the second accordion item."
+    },
+    {
+      "header": "Resource Process Outsourcing",
+      "content": "This is the content for the third accordion item."
+    },
+    {
+      "header": "Start-Up Accelerators",
+      "content": "This is the content for the fourth accordion item."
+    },
+    {
+      "header": "Talent Mapping",
+      "content": "This is the content for the fifth accordion item."
+    },
+    {
+      "header": "Diversity & Inclusion",
+      "content": "This is the content for the sixth accordion item."
+    }
+  ]
+}
